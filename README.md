@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live site]()
+- Solution URL: [Solution](https://github.com/Sheikar/HuddleLanding.git)
+- Live Site URL: [Live site](https://sheikar.github.io/HuddleLanding/)
 
 ## My process
 
